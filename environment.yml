@@ -1,6 +1,9 @@
 name: environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - numpy
   - matplotlib
+  - jupyter_dashboards
+  - jupyter_dashboards_bundlers
