@@ -1,3 +1,3 @@
 # Notebooks
 
-NotebookSlideshow.ipynb : [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/malinc-notebooks-dasmz036/notebooks/NotebookSlideshows.ipynb#/) to try it out
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/malinc/Notebooks/master) to try it out
